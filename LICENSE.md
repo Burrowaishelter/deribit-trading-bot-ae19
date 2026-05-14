@@ -1,4 +1,4 @@
-# 
+# advanced deribit trading bot Executor | multi-exchange-support + futures-arbitrage offers the most advanced deribit trading bot, with multi-exchange-support and futures-arbitrage.
 
 
 
